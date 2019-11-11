@@ -1,4 +1,4 @@
 # natours
 
 
-makeshift-whistle.surge.sh
+http://makeshift-whistle.surge.sh
